@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WeatherForecasts.Dal/1.0.0": {
+        "dependencies": {
+          "WeatherForecasts.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecasts.Dal.dll": {}
+        }
+      },
+      "WeatherForecasts.Domain/1.0.0": {
+        "runtime": {
+          "WeatherForecasts.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecasts.Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherForecasts.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

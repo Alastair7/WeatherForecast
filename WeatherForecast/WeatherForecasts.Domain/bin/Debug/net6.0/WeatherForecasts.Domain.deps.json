@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WeatherForecasts.Domain/1.0.0": {
+        "runtime": {
+          "WeatherForecasts.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecasts.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

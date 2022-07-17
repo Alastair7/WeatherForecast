@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Dal.deps.json
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Dal.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Dal.pdb
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Domain.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Domain.pdb
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.AssemblyInfo.cs
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.csproj.CopyComplete
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\refint\WeatherForecasts.Dal.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.pdb
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Dal\obj\Debug\net6.0\ref\WeatherForecasts.Dal.dll

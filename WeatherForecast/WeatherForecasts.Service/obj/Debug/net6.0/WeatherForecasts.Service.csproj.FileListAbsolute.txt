@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Service.deps.json
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Service.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Service.pdb
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Domain.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Domain.pdb
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.AssemblyInfo.cs
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.csproj.CopyComplete
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\refint\WeatherForecasts.Service.dll
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.pdb
+C:\Users\Alex\source\repos\WeatherForecast\WeatherForecast\WeatherForecasts.Service\obj\Debug\net6.0\ref\WeatherForecasts.Service.dll
